@@ -15,6 +15,6 @@ Advanced React • UI/UX Design • Modern Web Development
 ## 📫 Connect With Me
 
 📧 [daljuaid044@gmail.com](mailto:daljuaid044@gmail.com)
-🔗 https://www.linkedin.com/in/dana-aljuaid
+🔗 [LinkedIn](https://www.linkedin.com/in/dana-aljuaid)
 
 Thanks for stopping by ⭐
